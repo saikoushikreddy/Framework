@@ -1,0 +1,17 @@
+2026-06-17 08:44:56,741 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-17 08:55:06,882 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-17 08:55:07,167 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-17 08:55:09,059 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-17 08:55:11,764 INFO t.TC_01 [main] ****test case completed*****
+2026-06-17 08:57:29,089 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-17 08:57:29,357 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-17 08:57:31,081 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-17 08:57:33,212 INFO t.TC_01 [main] ****test case completed*****
+2026-06-17 09:00:08,376 INFO t.TC_02 [main] ******Staring Test Case=2*****
+2026-06-17 09:00:13,047 INFO t.TC_02 [main] ******fineshed Test Case=2*****
+2026-06-17 09:01:23,469 INFO t.TC_02 [main] ******Staring Test Case=2*****
+2026-06-17 09:01:25,944 INFO t.TC_02 [main] ******fineshed Test Case=2*****
+2026-06-17 09:04:41,104 INFO t.TC_02 [main] ******Staring Test Case=2*****
+2026-06-17 09:04:43,481 INFO t.TC_02 [main] ******fineshed Test Case=2*****
+2026-06-17 09:06:02,494 INFO t.TC_02 [main] ******Staring Test Case=2*****
+2026-06-17 09:06:05,068 INFO t.TC_02 [main] ******fineshed Test Case=2*****

@@ -1,0 +1,30 @@
+2026-06-07 12:13:17,783 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:13:17,959 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:13:18,339 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:13:20,136 INFO t.TC_01 [main] ****test case completed*****
+2026-06-07 12:17:57,613 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:17:57,808 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:17:58,218 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:21:10,707 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:21:10,865 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:21:11,271 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:28:51,260 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:28:51,424 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:28:51,867 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:28:53,658 ERROR t.TC_01 [main] Test Failed
+2026-06-07 12:28:53,658 DEBUG t.TC_01 [main] debug logs
+2026-06-07 12:36:15,646 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:36:15,786 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:36:16,140 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:36:19,033 ERROR t.TC_01 [main] Test Failed
+2026-06-07 12:36:19,033 DEBUG t.TC_01 [main] debug logs
+2026-06-07 12:41:24,007 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:41:24,164 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:41:24,601 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:41:26,222 ERROR t.TC_01 [main] Test Failed
+2026-06-07 12:41:26,222 DEBUG t.TC_01 [main] debug logs
+2026-06-07 12:51:21,818 INFO t.TC_01 [main] *** Staring the TC01*****
+2026-06-07 12:51:21,960 INFO t.TC_01 [main] *** clicked on my acoount*****
+2026-06-07 12:51:22,319 INFO t.TC_01 [main] *** clicked on register*****
+2026-06-07 12:51:24,729 ERROR t.TC_01 [main] Test Failed
+2026-06-07 12:51:24,730 DEBUG t.TC_01 [main] debug logs
